@@ -1,1 +1,1 @@
-# horse_fever
+This is a hacky python script to simulate races in [horse fever](https://boardgamegeek.com/boardgame/58110/horse-fever) for the purposes of evaluating the odds of races, and the influence of the action and horse cards on those odds.
